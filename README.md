@@ -23,10 +23,21 @@ Current Balance: $1000
 4. Exit
 ```
 
-## Running
+## Running from Source
 
 ```bash
 cargo run
+```
+
+## Download
+
+Download the latest release from the Releases page.
+
+### Linux
+
+```bash
+chmod +x bank-system
+./bank-system
 ```
 
 ## Future Improvements
@@ -40,3 +51,6 @@ cargo run
 ## Author
 
 Built by Tyler as a Rust learning project.
+## Author
+
+Built by Tyler as a Rust learning project while learning the language.

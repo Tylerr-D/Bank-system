@@ -23,22 +23,6 @@ Current Balance: $1000
 4. Exit
 ```
 
-## Running from Source
-
-```bash
-cargo run
-```
-
-## Download
-
-Download the latest release from the Releases page.
-
-### Linux
-
-```bash
-chmod +x bank-system
-./bank-system
-```
 
 ## Future Improvements
 
@@ -47,6 +31,17 @@ chmod +x bank-system
 - Multiple accounts
 - Transaction timestamps
 - Data persistence
+
+  
+## How to Run
+
+1. Download bank-system-linux.zip
+2. Extract the ZIP file
+3. Open a terminal in the extracted folder
+4. Run:
+
+chmod +x bank-system
+./bank-system
 
 ## Author
 

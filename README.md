@@ -46,6 +46,3 @@ chmod +x bank-system
 ## Author
 
 Built by Tyler as a Rust learning project.
-## Author
-
-Built by Tyler as a Rust learning project while learning the language.

@@ -37,8 +37,9 @@ Current Balance: $1000
  This release currently provides a Linux x86_64 executable.
 
 Run on Linux
-chmod +x bank-system
-./bank-system
+- chmod +x bank-system
+- ./bank-system
+
 Platform Support
 ✅ Linux (x86_64)
 

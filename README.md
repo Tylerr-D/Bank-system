@@ -40,9 +40,6 @@ Run on Linux
 - chmod +x bank-system
 - ./bank-system
 
-Platform Support
-✅ Linux (x86_64)
-
 ### To run the project from source:
 
 cargo run

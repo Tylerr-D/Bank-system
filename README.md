@@ -33,15 +33,20 @@ Current Balance: $1000
 - Data persistence
 
   
-## How to Run
+## Running the Executable
 
-1. Download bank-system-linux.zip
-2. Extract the ZIP file
-3. Open a terminal in the extracted folder
-4. Run:
+## This release currently provides a Linux x86_64 executable.
 
+Run on Linux
 chmod +x bank-system
 ./bank-system
+Platform Support
+✅ Linux (x86_64)
+
+### To run the project from source:
+
+cargo run
+
 
 ## Author
 

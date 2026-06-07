@@ -34,8 +34,7 @@ Current Balance: $1000
 
   
 ## Running the Executable
-
-## This release currently provides a Linux x86_64 executable.
+ This release currently provides a Linux x86_64 executable.
 
 Run on Linux
 chmod +x bank-system

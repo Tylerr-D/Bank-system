@@ -41,8 +41,7 @@ Run on Linux
 - ./bank-system
 
 - it might open as binary on your ide but just write the commands in the terminal
-<img width="1803" height="981" alt="image" src="https://github.com/user-attachments/assets/601d8a97-c333-4c50-a393-df74684e8850" />
-
+<img width="977" height="536" alt="image" src="https://github.com/user-attachments/assets/ae920322-b784-4840-9829-f04011f09668" />
 
 ### To run the project from source:
 

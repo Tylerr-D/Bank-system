@@ -40,6 +40,10 @@ Run on Linux
 - chmod +x bank-system
 - ./bank-system
 
+- it might open as binary on your ide but just write the commands in the terminal
+<img width="1803" height="981" alt="image" src="https://github.com/user-attachments/assets/601d8a97-c333-4c50-a393-df74684e8850" />
+
+
 ### To run the project from source:
 
 cargo run
